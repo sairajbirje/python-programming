@@ -1,0 +1,9 @@
+print(10+15)
+print(15-10)
+print(10*15)
+print(10/15)
+A=10
+a=100
+print(A)
+print(a)
+print(a+12)
